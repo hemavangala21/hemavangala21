@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vangala Hemalatha</h1>
-<h3 align="center">An ambitious Computer Science student from India, committed to pioneering technological solutions and driving innovation in the digital world.</h3>
+<h3 align="center">An ambitious Computer Science student, committed to pioneering technological solutions and driving innovation in the digital world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemavangala21&label=Profile%20views&color=0e75b6&style=flat" alt="hemavangala21" /> </p>
 
