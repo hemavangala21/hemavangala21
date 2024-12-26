@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemavangala21&label=Profile%20views&color=0e75b6&style=flat" alt="hemavangala21" /> </p>
 
-- 🤝 I’m looking for help with **full stack development**
-
-- 🌱 I’m currently learning **DSA, Web Development**
-
 - 📫 How to reach me **hema210903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
